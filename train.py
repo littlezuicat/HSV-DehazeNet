@@ -18,7 +18,7 @@ from loss import loss_fn
 from option import model_name
 from torch.nn import functional as FF
 #导入tensorboard
-1111
+11112
 warnings.filterwarnings('ignore')
 
 print('log_dir :', log_dir)
